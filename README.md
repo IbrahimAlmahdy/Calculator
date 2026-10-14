@@ -4,7 +4,7 @@ A responsive calculator built using HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-[Live Demo](https://ibrahim-almahdy.github.io/Calculator/)
+[Live Demo](https://IbrahimAlmahdy.github.io/Calculator/)
 
 ## Features
 
